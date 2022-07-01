@@ -1,4 +1,22 @@
 ### Hi there 👋
+I'm a senior high school student in Japan.
+
+### My experienced programming languages
+ - Java
+ - HTML
+ - CSS
+ - JavaScript
+
+### I can write these programming languages
+ - Java
+ - HTML
+ - CSS
+ - JavaScript
+ - php
+ - Python
+ - C
+ - C++
+ - C#
 
 <!--
 **kusaanko/kusaanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
