@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a senior high school student in Japan.
+I'm a university student in Japan.
 
 ### My experienced programming languages
  - Java
