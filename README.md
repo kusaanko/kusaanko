@@ -17,6 +17,7 @@ I'm a university student in Japan.
  - C
  - C++
  - C#
+ - Swift
 
 <!--
 **kusaanko/kusaanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
