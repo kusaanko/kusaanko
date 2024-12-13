@@ -6,6 +6,8 @@ I'm a university student in Japan.
  - HTML
  - CSS
  - JavaScript
+ - Swift
+ - Rust
 
 ### I can write these programming languages
  - Java
