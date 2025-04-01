@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm a university student in Japan.
 
+My major is chemistry.
+
 ### My experienced programming languages
  - Java
  - HTML
