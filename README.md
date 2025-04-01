@@ -3,26 +3,16 @@ I'm a university student in Japan.
 
 My major is chemistry.
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusaanko&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kusaanko&show_icons=ture" />
+</p>
+
 ### My experienced programming languages
- - Java
- - HTML
- - CSS
- - JavaScript
- - Swift
- - Rust
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,swift,rust)](https://skillicons.dev)
 
 ### I can write these programming languages
- - Java
- - HTML
- - CSS
- - JavaScript
- - php
- - Python
- - C
- - C++
- - C#
- - Swift
- - Rust
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,php,python,c,cpp,cs,dotnet,sqlite)](https://skillicons.dev)
 
 <!--
 **kusaanko/kusaanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
