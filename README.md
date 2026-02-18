@@ -3,11 +3,6 @@ I'm a university student in Japan.
 
 My major is chemistry.
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusaanko&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kusaanko&show_icons=ture" />
-</p>
-
 ### My experienced programming languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,swift,rust)](https://skillicons.dev)
 
